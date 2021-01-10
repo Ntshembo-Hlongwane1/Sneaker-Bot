@@ -2,10 +2,10 @@
 
 # Store support:
 
-- Supreme
-- Nike
-- Addidas
-- Yeezy
+- Archiv Release link --> [weblink](https://blog.archivestore.co.za/release-calendar/)
+- Archive --> [weblink](https://www.archivestore.co.za/home)
+- Footlocker --> [weblink](https://www.footlocker.com/)
+- Finishline --> [weblink](https://www.finishline.com/)
 
 # Bot Actions
 

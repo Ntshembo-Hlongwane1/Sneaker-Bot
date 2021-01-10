@@ -16,7 +16,7 @@ class ServiceHandler(BaseHTTPRequestHandler):
     response={
       "test":"test"
     }
-    self.send_response(200)
+    self.send_response(HTTPStatus.OK.value)
     self.send_header('Content-type', 'application/json')
     self.end_headers()
     self.wfile.write(bytes(json.dumps(response, ensure_ascii=False), 'utf-8'))
